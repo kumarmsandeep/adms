@@ -1,2 +1,2 @@
-# adms
+# AdMS
 Ad Management System
